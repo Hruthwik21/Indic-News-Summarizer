@@ -1,0 +1,9 @@
+# Fine-tuning (use a separate environment from the app)
+torch
+transformers
+accelerate
+datasets<4.0
+evaluate
+rouge_score
+sentencepiece
+peft

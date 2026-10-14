@@ -1,0 +1,10 @@
+# App (inference). transformers is pinned because IndicTrans2's remote code needs it.
+transformers==4.38.2
+torch
+sentencepiece
+curl_cffi
+beautifulsoup4
+trafilatura
+langdetect
+gradio
+git+https://github.com/VarunGumma/IndicTransToolkit.git
